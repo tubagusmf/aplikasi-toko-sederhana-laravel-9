@@ -182,7 +182,7 @@ class Keranjang extends Controller
         return redirect('keranjang');
     }
 
-    //update
+    //update keranjang
     public function update(Request $request)
     {
         \Cart::update(
