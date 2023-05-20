@@ -1,0 +1,13 @@
+plugin untuk pdf laravel
+
+install pdf di situs = carlos-meneses laravel-mpdf
+
+ketikkan di terminal = composer require carlos-meneses/laravel-mpdf
+
+masukkan di config/app
+'PDF' => Meneses\LaravelMpdf\Facades\LaravelMpdf::class
+
+jalankan diterminal untuk mengaktifkan mpdf di versi laravel 9
+composer require psr/log ^2.0
+
+untuk mengaktifkan pagination, maka harus menonaktifkan 'strict' => false di folder config/database.php

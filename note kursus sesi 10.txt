@@ -1,0 +1,6 @@
+laravel cart sistem
+untuk menambah sistem cart di laravel
+
+https://larainfo.com/blogs/laravel-8-add-to-cart-step-by-step-example (situs)
+composer require "darryldecode/cart" (unduh)
+

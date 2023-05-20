@@ -1,0 +1,7 @@
+- instalasi intervention image laravel
+- composer require intervention/image
+- menambah 'Image' => Intervention\Image\Facades\Image::class, di file app/config/app.php
+
+PR
+1. MEMBUAT MODUL KATEGORI, PROVINSI
+2. STATUS_KATEGORI (PUBLISH & DRAFT)
