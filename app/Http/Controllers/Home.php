@@ -93,7 +93,7 @@ class Home extends Controller
         return view('layout/wrapper', $data);
     }
 
-    //pricing
+    //pricing page updated
     public function pricing()
     {
         $data = [
