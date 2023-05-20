@@ -31,7 +31,7 @@
   <main id="main">
 
     <!-- ======= About Section ======= -->
-    <section id="about" class="about">
+    <section id="about" class="about pb-5">
         <div class="container">
   
           <div class="row">
@@ -39,7 +39,7 @@
             {{-- gambar --}}
             <div class="col-md-8 offset-2">
                 <div class="card">
-                    <div class="card-header">Isi Data Anda</div>
+                    <div class="card-header">Silahkan Login</div>
                     <div class="card-body">
 
                         <div class="alert alert-info">

@@ -54,7 +54,7 @@ $nav_produk = $m_produk->nav_produk('Publish');
           <?php }else{ ?>
             <li>
               <a class="nav-link scrollto text-warning" href="{{ asset('signin') }}">
-              <i class="fa fa-user-lock">&nbsp; Login</i>
+              <i class="fa fa-user-lock"></i>&nbsp; Login
             </a>
           </li>
           <?php } ?>

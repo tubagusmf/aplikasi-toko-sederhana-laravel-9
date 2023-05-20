@@ -31,7 +31,7 @@
   <main id="main">
 
     <!-- ======= About Section ======= -->
-    <section id="about" class="about">
+    <section id="about" class="about pb-5">
         <div class="container">
   
           <div class="row">
