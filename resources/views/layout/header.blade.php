@@ -51,6 +51,12 @@ $nav_produk = $m_produk->nav_produk('Publish');
               <i class="fa fa-sign-out-alt"></i>
             </a>
           </li>
+          <?php }else{ ?>
+            <li>
+              <a class="nav-link scrollto text-warning" href="{{ asset('signin') }}">
+              <i class="fa fa-user-lock">&nbsp; Login</i>
+            </a>
+          </li>
           <?php } ?>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
